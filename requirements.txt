@@ -1,5 +1,5 @@
 # Telegram Bot Framework
-aiogram>=3.27.0
+aiogram>=3.28.1
 
 # HTTP Clients
 aiohttp>=3.13.5
@@ -12,7 +12,7 @@ retry-requests>=2.0.0
 python-dotenv>=1.2.2
 
 # LLM and AI
-openai>=2.33.0
+openai>=2.36.0
 
 # Audio Processing
 faster-whisper>=1.2.1
